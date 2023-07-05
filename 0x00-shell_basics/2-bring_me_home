@@ -1,2 +1,4 @@
 #!/bin/bash
-cd "$HOME"
+set -x
+cd ~
+echo "Script executed successfully"
