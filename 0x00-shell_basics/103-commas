@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -d -a --format=comma ./ ../ [0-9]* [a-zA-z]* 
+ls -1 -d -a -F --format=comma ../ ./ [0-9]* [a-zA-z]* 
