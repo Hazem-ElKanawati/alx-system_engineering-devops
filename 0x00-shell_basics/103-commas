@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -d -a -F -p . .. --format=comma -A [0-9]*
+ls -map
